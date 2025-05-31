@@ -34,12 +34,12 @@ module.exports = {
 			noAdmin: "Hiện tại bot chưa có admin nào"
 		},
 		en: {
-			missingMessage: "Please enter the message you want to send to admin",
-			sendByGroup: "\n- Sent from group: %1\n- Thread ID: %2",
+			missingMessage: "𝒗𝒆𝒖𝒊𝒍𝒍𝒆𝒛 𝒆𝒄𝒓𝒊𝒓𝒆 𝒖𝒏 𝒎𝒆𝒔𝒔𝒂𝒈𝒆 𝒑𝒐𝒖𝒓 𝒍'𝒂𝒅𝒎𝒊𝒏𝒊𝒔𝒕𝒓𝒂𝒕𝒆𝒖𝒓",
+			sendByGroup: "\n- 𝒆𝒏𝒗𝒐𝒚𝒆 𝒅𝒆𝒑𝒖𝒊𝒔 𝒍𝒆 𝒈𝒓𝒐𝒖𝒑𝒆: %1\n- Thread ID: %2",
 			sendByUser: "\n- Sent from user",
-			content: "\n\nContent:\n─────────────────\n%1\n─────────────────\nReply this message to send message to user",
-			success: "Sent your message to %1 admin successfully!\n%2",
-			failed: "An error occurred while sending your message to %1 admin\n%2\nCheck console for more details",
+			content: "\n\nContent:\n✥---------------✥---------------✥\n%1\n✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏\n𝒓𝒆𝒑𝒐𝒏𝒅𝒔 𝒂 𝒄𝒆 𝒎𝒆𝒔𝒔𝒂𝒈𝒆 𝒑𝒐𝒖𝒓 𝒑𝒂𝒓𝒍𝒆𝒓 𝒂 𝒍'𝒖𝒕𝒊𝒍𝒊𝒔𝒂𝒕𝒆𝒖𝒓",
+			success: "𝒗𝒐𝒕𝒓𝒆 𝒎𝒆𝒔𝒔𝒂𝒈𝒆 𝒂 𝒆𝒕𝒆 𝒆𝒏𝒗𝒐𝒚é à %1 𝒂𝒅𝒎𝒊𝒏\n%2",
+			failed: "𝒖𝒏𝒆 𝒆𝒓𝒓𝒆𝒖𝒓 𝒆𝒔𝒕 𝒔𝒖𝒓𝒗𝒆𝒏𝒖𝒆 𝒍𝒐𝒓𝒔 𝒅𝒆 𝒍'𝒆𝒏𝒗𝒐𝒊𝒆 𝒅𝒆 𝒗𝒐𝒕𝒓𝒆 𝒎𝒆𝒔𝒔𝒂𝒈𝒆 à%1 𝒂𝒅𝒎𝒊𝒏\n%2\n𝒎𝒆𝒓𝒄𝒊 𝒅'𝒆𝒔𝒔𝒂𝒚𝒆𝒓 𝒑𝒍𝒖𝒔 𝒕𝒂𝒓𝒅",
 			reply: "📍 Reply from admin %1:\n─────────────────\n%2\n─────────────────\nReply this message to continue send message to admin",
 			replySuccess: "Sent your reply to admin successfully!",
 			feedback: "📝 Feedback from user %1:\n- User ID: %2%3\n\nContent:\n─────────────────\n%4\n─────────────────\nReply this message to send message to user",
